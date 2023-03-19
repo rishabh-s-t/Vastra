@@ -6,7 +6,7 @@ We have implemented the process on Google Colab to try and run the model against
 [![Open In Colab](https://colab.research.google.com/drive/1BTAogr3k3AsTxXaLd4sSSl6HgXfbP5V2?usp=sharing)
 
 ## Process Overview
-![process overview image](./image/process_overview.png)
+![process overview image](./images/process_overview.png)
 
 ## Code Running Environment
 > ## run at ubuntu
