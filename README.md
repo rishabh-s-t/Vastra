@@ -1,4 +1,4 @@
-# Vastra - Visual Cloth Try On using HI-VITON.
+# Vastra - Visual Cloth Try On using HR-VITON.
 ![teaser image](./figures/teaser.png)
 > [KR presentation](./TryYours_presentation_kr.pdf)
 
