@@ -1,4 +1,4 @@
-# TryYours - High Resolution Virtual Try On site using HR-VITON.
+# Vastra - Visual Cloth Try On using HI-VITON.
 ![teaser image](./figures/teaser.png)
 > [KR presentation](./TryYours_presentation_kr.pdf)
 
