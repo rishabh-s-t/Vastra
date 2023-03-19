@@ -5,8 +5,13 @@
 We have implemented the process on Google Colab to try and run the model against custom inputs.
 ## ![Open In Colab](https://colab.research.google.com/drive/1BTAogr3k3AsTxXaLd4sSSl6HgXfbP5V2?usp=sharing)
 
+
+## Problem Statement
+
+
 ## Process Overview
 ![process overview image](./images/process_overview.png)
+
 
 ## References
 #### HR-VITON
